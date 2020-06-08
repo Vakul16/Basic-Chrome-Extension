@@ -1,3 +1,3 @@
-# MIlestone-5_hello
+# Milestone-5_hello
 # chrome extension basics
 # JQuery
