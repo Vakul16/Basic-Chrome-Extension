@@ -1,3 +1,3 @@
-# Milestone-5_hello
-# chrome extension basics
-# JQuery
+## Milestone-5
+## Chrome Extension Basics
+### Technologies Used
