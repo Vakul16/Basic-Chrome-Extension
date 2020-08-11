@@ -4,4 +4,6 @@
 
 JQuery
 
+Javascript
+
 HTML
